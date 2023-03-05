@@ -1,0 +1,17 @@
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\bin\Debug\net6.0-windows\kiwil.exe
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\bin\Debug\net6.0-windows\kiwil.deps.json
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\bin\Debug\net6.0-windows\kiwil.runtimeconfig.json
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\bin\Debug\net6.0-windows\kiwil.dll
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\bin\Debug\net6.0-windows\kiwil.pdb
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.csproj.AssemblyReference.cache
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.Form1.resources
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.csproj.GenerateResource.cache
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.AssemblyInfoInputs.cache
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.AssemblyInfo.cs
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.csproj.CoreCompileInputs.cache
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.dll
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\refint\kiwil.dll
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.pdb
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\kiwil.genruntimeconfig.cache
+C:\kuliah\semester 4\KPL (praktik)\kiwil\kiwil\obj\Debug\net6.0-windows\ref\kiwil.dll
